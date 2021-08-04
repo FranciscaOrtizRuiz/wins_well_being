@@ -9,9 +9,9 @@ so if you feel that these thing does not work enough, we definitly encourage you
 Probably in your university there is a programm that could help you, if not, in the same city that you are living. 
 You are not alone, and there is always someone to talk to. 
 
-🖊 Author/Maintainer: **Repository maintain by Postgraduate Committe of
+🖊 Author/Maintainer: **Repository maintain by Graduate Committe of
 WiNS council**. If you would like to add information, or suggest some
-changes, please contact Francisca Ortiz (Postgraduate rep) by email:
+changes, please contact Francisca Ortiz by email:
 **<franortizruiz@gmail.com>**.
 
 Another repository that may be interesting for you, it is the one
