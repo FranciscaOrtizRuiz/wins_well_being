@@ -89,7 +89,7 @@ Goodread](https://www.goodreads.com/list/tag/strong-female)
 
 ## Advices of well-being during your studies 🔭
 
-[Newsletter find mind space"](https://findmindspace.com)
+[Newsletter “find mind space”](https://findmindspace.com)
 
 [Resources: looking after your mental
 wellbeing](https://www.studentminds.org.uk/lookingafteryourmentalwellbeing.html)
