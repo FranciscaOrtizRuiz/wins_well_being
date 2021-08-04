@@ -1,5 +1,5 @@
 
-# WiNS Well-being 
+# WiNS Well-being 🌻📖
 
 Repository by Women in Network Science WiNS.
 
@@ -19,7 +19,7 @@ created with information for [postgraduates Women in Network
 Science](https://github.com/FranciscaOrtizRuiz/wins_postgraduate) and 
 [starting kit with networks](https://github.com/FranciscaOrtizRuiz/wins_startingwithnetworks)
 
-## Imposter syndrome 🌻📖
+## Imposter syndrome 💻💬
 
 We know that imposter syndrome is something common in academia, specially for women. 
 Then, we hope these videos and others resources help you out with that! You definitly can figth back this syndrome! 
