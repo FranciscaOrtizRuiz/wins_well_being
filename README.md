@@ -17,7 +17,7 @@ changes, please contact Francisca Ortiz by email:
 Another repository that may be interesting for you, it is the one
 created with information for [postgraduates Women in Network
 Science](https://github.com/FranciscaOrtizRuiz/wins_postgraduate) and 
-[starting kit with networks](https://github.com/FranciscaOrtizRuiz/wins_startingwithnetworks)
+[starting kit with networks](https://github.com/FranciscaOrtizRuiz/wins_startingwithnetworks).
 
 ## Imposter syndrome 💻💬
 
