@@ -4,6 +4,7 @@
 Repository by Women in Network Science WiNS.
 
 In this repository you will find useful resources for Women in Network
+<<<<<<< HEAD
 Sciences (WiNS), to care of our well-being. This is only a repository of
 resources, so if you feel that these thing does not work enough, we
 definitly encourage you to look for help. Probably in your university
@@ -16,6 +17,22 @@ created with information for [postgraduates Women in Network
 Science](https://github.com/FranciscaOrtizRuiz/wins_postgraduate) and
 [starting kit with
 networks](https://github.com/FranciscaOrtizRuiz/wins_startingwithnetworks)
+=======
+Sciences (WiNS), to care of our well-being. This is only a repository of resources, 
+so if you feel that these thing does not work enough, we definitly encourage you to look for help. 
+Probably in your university there is a programm that could help you, if not, in the same city that you are living. 
+You are not alone, and there is always someone to talk to. 
+
+🖊 Author/Maintainer: **Repository maintain by Graduate Committe of
+WiNS council**. If you would like to add information, or suggest some
+changes, please contact Francisca Ortiz by email:
+**<franortizruiz@gmail.com>**.
+
+Another repository that may be interesting for you, it is the one
+created with information for [postgraduates Women in Network
+Science](https://github.com/FranciscaOrtizRuiz/wins_postgraduate) and 
+[starting kit with networks](https://github.com/FranciscaOrtizRuiz/wins_startingwithnetworks).
+>>>>>>> 422b45647b7b63f3aba73c5f67b88c3e213e2f50
 
 ## Imposter syndrome 💻💬
 
